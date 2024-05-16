@@ -1,6 +1,6 @@
 #Autostrabus 
 ***
-## Descripción del proyecto: Nuestra iniciativa se centra en la fabricación de un dispositivo que permitirá llevar a cabo un examen oftalmológico conocido como covert test. Este aparato estará automatizado y será capaz de analizar, mediante inteligencia artificial, si el individuo presenta alguna desviación ocular, así como de cuantificarla en caso de que exista. Además, será capaz de determinar si la posición de la cabeza del paciente es adecuada durante el examen, y en caso contrario, medir la magnitud de cualquier desviación en la posición de la cabeza
+## Descripción del proyecto: Nuestra iniciativa se centra en la fabricación de un dispositivo que permitirá llevar a cabo un examen oftalmológico conocido como covert test. Este aparato estará automatizado y será capaz de analizar, mediante inteligencia artificial, si el individuo presenta alguna desviación ocular, así como de cuantificarla en caso de que exista. Además, será capaz de determinar si la posición de la cabeza del paciente es adecuada durante el examen, y en caso contrario, medir la magnitud de cualquier desviación en la posición de la cabeza.
 
 
 
@@ -29,7 +29,7 @@
 ![BNO(GY-BNOO55)](https://github.com/NicoAguilera7/AutoStrabus/assets/169829886/89754a8f-7ea3-414a-85c0-359307acdc89)
 >BNO(GY-BN0055):El GY-BNO es un módulo sensor que incluye un sensor de orientación y movimiento de tres ejes llamado BNO055. Este sensor es capaz de proporcionar información precisa sobre la orientación absoluta, la velocidad angular y la aceleración lineal en tiempo real
 ![Tarjeta verde ](https://github.com/NicoAguilera7/AutoStrabus/assets/169829886/4b93e539-cd3d-4fde-804f-54ba116cb3a5)
->Circuito 
+>Hub:En un circuito, un hub es un dispositivo que actúa como punto central para conectar múltiples dispositivos. Funciona como un concentrador de conexiones, permitiendo que varios dispositivos se conecten entre sí y compartan información dentro de una red local. Básicamente, un hub recibe datos de un dispositivo y los retransmite a todos los demás dispositivos conectados a él.
 ![Cámara ](https://github.com/NicoAguilera7/AutoStrabus/assets/169829886/c6b0733c-15bf-4b93-b498-465aea8d13d1)
 >Cámara 
  ![Correa elite reemplazable para auriculares Meta Quest 3 VR ](https://github.com/NicoAguilera7/AutoStrabus/assets/169829886/af914f44-46ff-4074-a7b1-fb81df7decc0)
